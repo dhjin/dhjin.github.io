@@ -3,6 +3,11 @@ type: photo
 title: Gallery Post
 date: 2014-11-18 15:45:20
 category: Photo
+photos:
+- /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
+- /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
+- /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
+- /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
 tags:
 - consectetur
 description: Gallery Post Test
