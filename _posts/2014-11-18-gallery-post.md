@@ -18,8 +18,6 @@ The tower itself is a study in functional design. Its circular shape is inherent
 
 <!-- more -->
 
-![Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)](/assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG)
-
 Atop the tower sits a smaller structure, possibly housing equipment or serving as an observation point. Its presence adds a layer of visual interest, drawing the eye upwards and emphasizing the tower's verticality against the vast expanse of the sky.
 
 Our attention is drawn to the large blue clock face prominently displayed on the tower's facade. It proudly proclaims "Arizona Time," a subtle reminder of the dam's location on the border between Arizona and Nevada. This detail is significant, highlighting the role the dam played in unifying these two states through a shared resource and a common purpose. The clock's stark white hands, frozen in time, suggest a moment of stillness amidst the constant flow of water and the relentless passage of time.
