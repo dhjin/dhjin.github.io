@@ -4,10 +4,7 @@ title: Gallery Post
 date: 2014-11-18 15:45:20
 category: Photo
 photos:
-- assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
-- assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
-- assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
-- assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
+- ![image tooltip here](/assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG)
 tags:
 - consectetur
 description: Gallery Post Test. 测试图片类文章的显示。
@@ -17,6 +14,6 @@ Nunc dignissim volutpat enim, non sollicitudin purus dignissim id. Nam sit amet 
 
 <!-- more -->
 
-![Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)](http://ww1.sinaimg.cn/large/81b78497jw1emfgts2pt4j21hc0u0k1c.jpg)
+![Wallbase - dgnfly (wallbase.cc/wallpaper/1384450)](/assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG)
 
 Etiam luctus mauris at mi sollicitudin quis malesuada nibh porttitor. Vestibulum non dapibus magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin feugiat hendrerit viverra. Phasellus sit amet nunc mauris, eu ultricies tellus. Sed a mi tortor, eleifend varius erat. Proin consectetur molestie tortor eu gravida. Cras placerat orci id arcu tristique ut rutrum justo pulvinar. Maecenas lacinia fringilla diam non bibendum. Aenean vel viverra turpis. Integer ut leo nisi. Pellentesque vehicula quam ut sapien convallis consequat. Aliquam ut arcu purus, eget tempor purus. Integer eu tellus quis erat tristique gravida eu vel lorem.
