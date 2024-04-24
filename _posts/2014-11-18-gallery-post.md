@@ -1,10 +1,9 @@
 ---
 type: photo
 title: A Monument to Time and Power - Exploring the Hoover Dam Intake Tower
-date: 2014-11-18 15:45:20
+date: 2024-4-18 15:45:20
 category: Photo
 photos:
-- /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
 - /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
 - /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
 - /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
