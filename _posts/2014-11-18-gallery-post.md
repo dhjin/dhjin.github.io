@@ -6,7 +6,7 @@ category: Photo
 photos:
 - /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
 - /assets/images/IMG_4543 2.jpg
-- /assets/images/D3BAA798-4B79-42D8-859B-ADF405AAE9BC.JPG
+- /assets/images/IMG_4539.jpg
 tags:
 - consectetur
 description: travel and photo
