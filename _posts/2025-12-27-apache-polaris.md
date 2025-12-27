@@ -1,6 +1,6 @@
 ---
 title: Apache Polaris - The Open Source Catalog for Apache Iceberg
-date: 2025-12-27 12:00:00
+date: 2025-12-27 03:00:00
 categories:
 - Big Data
 - Data Engineering

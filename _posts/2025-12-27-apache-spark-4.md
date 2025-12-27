@@ -1,6 +1,6 @@
 ---
 title: Apache Spark 4.0.0
-date: 2025-12-27 00:00:00
+date: 2025-12-27 02:00:00
 categories:
 - Big Data
 tags:
