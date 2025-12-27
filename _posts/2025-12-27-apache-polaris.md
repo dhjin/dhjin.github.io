@@ -34,6 +34,9 @@ Catalogs play a critical role in a multi-engine architecture by making operation
 ### 3. Multi-Tenancy
 Polaris is built from the ground up to support **serving multiple catalogs and multiple users** from a single instance, making it ideal for enterprise deployments.
 
+![Polaris Multi-Tenancy Architecture](/assets/images/polaris-multi-tenancy.png)
+*Figure: Apache Polaris multi-tenancy architecture showing a single Polaris instance managing multiple catalogs and users, each connected to their respective data sources.*
+
 ### 4. Flexible Catalog Types
 Polaris catalogs map directly to Apache Iceberg catalogs and are associated with specific storage types (S3, Azure, GCS). It supports:
 - **Internal catalogs**: Managed by Polaris, allowing read and write operations
