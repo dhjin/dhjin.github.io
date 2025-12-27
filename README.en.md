@@ -1,10 +1,11 @@
-# NexT
+# Duhyeon Jin
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
+> PhD Candidate
 
+Personal blog about Data Engineering, Computational Semantics, and Big Data.
 
- * [Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
- * [Yitao's Blog](http://simpleyyt.com)
+ * [Blog](https://dhjin.github.io)
+ * [About](https://dhjin.github.io/about/)
 
 ## Screenshots
 
