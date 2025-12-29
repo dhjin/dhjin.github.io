@@ -104,6 +104,15 @@ NexT.utils = NexT.$u = {
       var oldDimension = getDimension($iframe);
       var newDimension;
 
+      // Skip comment system iframes (Giscus, Utterances, Disqus, etc.)
+      if (this.src.indexOf('giscus.app') >= 0 ||
+          this.src.indexOf('utteranc.es') >= 0 ||
+          this.src.indexOf('disqus.com') >= 0 ||
+          $iframe.hasClass('giscus-frame') ||
+          $iframe.hasClass('utterances-frame')) {
+        return;
+      }
+
       if (this.src.search(pattern) > 0) {
 
         // Calculate the video ratio based on the iframe's w/h dimensions
