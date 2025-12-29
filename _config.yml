@@ -456,8 +456,9 @@ giscus:
   mapping: pathname
   reactions_enabled: 1
   emit_metadata: 0
-  theme: preferred_color_scheme
+  theme: light
   lang: en
+  loading: lazy
 
 # Baidu Share
 # Available value:
