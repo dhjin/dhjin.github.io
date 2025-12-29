@@ -448,7 +448,7 @@ gitalk:
 # 2. Install the giscus app: https://github.com/apps/giscus
 # 3. Visit https://giscus.app to get your configuration
 giscus:
-  enable: true
+  enable: false
   repo: dhjin/dhjin.github.io
   repo_id: R_kgDOLye_-w
   category: General
@@ -459,6 +459,15 @@ giscus:
   theme: light
   lang: en
   loading: lazy
+
+# Support for utterances comments system.
+# https://utteranc.es/
+utterances:
+  enable: true
+  repo: dhjin/dhjin.github.io
+  issue_term: pathname
+  theme: github-light
+  label: comment
 
 # Baidu Share
 # Available value:

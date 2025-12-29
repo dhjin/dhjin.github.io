@@ -43,6 +43,14 @@
               crossorigin="anonymous"
               async>
       </script>
+    {% elsif site.utterances.enable %}
+      <script src="https://utteranc.es/client.js"
+              repo="{{ site.utterances.repo }}"
+              issue-term="{{ site.utterances.issue_term }}"
+              theme="{{ site.utterances.theme }}"
+              crossorigin="anonymous"
+              async>
+      </script>
     {% elsif site.youyan_uid %}
       <div id="uyan_frame"></div>
     {% elsif site.livere_uid %}
