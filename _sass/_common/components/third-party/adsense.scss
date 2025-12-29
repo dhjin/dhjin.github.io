@@ -1,12 +1,8 @@
-// Ensure AdSense doesn't overlap with comments but still works properly
+// Ensure AdSense doesn't overlap with comments
+// Only set z-index and spacing - let inline styles handle width
 .adsbygoogle {
   position: relative;
   z-index: 10;
-  margin: 30px auto;
-  clear: both;
-  min-width: 300px; // Ensure AdSense has width to calculate ad size
-  width: 100%;
-  max-width: 970px;
 }
 
 // Footer AdSense specific - add spacing to prevent overlap with comments
