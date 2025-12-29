@@ -1,0 +1,12 @@
+// Ensure AdSense doesn't overlap with comments
+.adsbygoogle {
+  position: relative;
+  z-index: 1 !important;
+  margin-top: 30px;
+  clear: both;
+}
+
+// Footer AdSense specific
+footer .adsbygoogle {
+  margin-top: 50px;
+}

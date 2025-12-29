@@ -7,6 +7,7 @@
 @import "busuanzi-counter";
 @import "algolia-search";
 @import "disqus";
+@import "adsense";
 @if jekyll-config('algolia_search.enable') {
   @include algolia-search;
 }
