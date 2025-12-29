@@ -450,14 +450,14 @@ gitalk:
 giscus:
   enable: true
   repo: dhjin/dhjin.github.io
-  repo_id: # Get this from https://giscus.app
-  category: # General or Announcements (recommended)
-  category_id: # Get this from https://giscus.app
-  mapping: pathname # or url, title, og:title
+  repo_id: R_kgDOLye_-w
+  category: Announcements
+  category_id: DIC_kwDOLye_-84C0V4o
+  mapping: pathname
   reactions_enabled: 1
   emit_metadata: 0
-  theme: preferred_color_scheme # or light, dark, dark_dimmed
-  lang: ko # or en, zh-CN, etc.
+  theme: preferred_color_scheme
+  lang: en
 
 # Baidu Share
 # Available value:
