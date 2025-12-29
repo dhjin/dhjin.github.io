@@ -451,8 +451,8 @@ giscus:
   enable: true
   repo: dhjin/dhjin.github.io
   repo_id: R_kgDOLye_-w
-  category: Announcements
-  category_id: DIC_kwDOLye_-84C0V4o
+  category: General
+  category_id: DIC_kwDOLye_-84C0V4p
   mapping: pathname
   reactions_enabled: 1
   emit_metadata: 0
