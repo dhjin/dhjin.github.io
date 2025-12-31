@@ -24,8 +24,8 @@ This deep dive explores MinIO's internal architecture, focusing on its three-lay
 
 MinIO's internal structure is organized into three functional layers that handle data from application requests down to physical storage:
 
-![MinIO Three-Layer Architecture](/assets/images/minio-three-layers.png)
-*Image placeholder: MinIO's three-layer architecture showing S3 API, Object, and Storage layers*
+![MinIO Three-Layer Architecture](/assets/images/1767161039824.jpg)
+*MinIO's three-layer architecture showing S3 API, Object, and Storage layers*
 
 ### 1. S3 API Layer (Top Layer)
 
@@ -98,8 +98,8 @@ The **Storage Layer** handles the physical storage and retrieval of objects from
 
 MinIO uses **Reed-Solomon erasure coding** to protect data from drive, node, and site failures without the overhead and limitations of traditional RAID.
 
-![MinIO Erasure Coding](/assets/images/minio-erasure-coding.png)
-*Image placeholder: Diagram showing how an object is split into data and parity blocks across multiple drives*
+![MinIO Erasure Coding](/assets/images/1767163208654.jpg)
+*Diagram showing how an object is split into data and parity blocks across multiple drives*
 
 ### How Erasure Coding Works
 
@@ -176,8 +176,8 @@ Consider a MinIO cluster with **16 drives**:
 
 One of MinIO's most distinctive architectural decisions is its **complete elimination of a separate metadata database**. This design choice is fundamental to MinIO's scalability and performance characteristics.
 
-![MinIO Metadata Storage](/assets/images/minio-metadata-storage.png)
-*Image placeholder: Diagram showing xl.meta files stored alongside object data, with no central metadata database*
+![MinIO Metadata Storage](/assets/images/1767163122670.jpg)
+*Diagram showing xl.meta files stored alongside object data, with no central metadata database*
 
 ### Why No Database?
 
