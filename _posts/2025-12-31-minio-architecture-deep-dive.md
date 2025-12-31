@@ -336,6 +336,9 @@ For **small objects (< 128KiB)**, MinIO stores the actual object data **inline w
 
 MinIO organizes physical and logical resources to ensure symmetry, high availability, and horizontal scalability.
 
+![MinIO Distributed Cluster Architecture](/assets/images/1767163020253.jpg)
+*MinIO's distributed architecture showing nodes, zones, and erasure sets*
+
 ### Core Building Blocks
 
 **Nodes:**
@@ -366,6 +369,9 @@ MinIO organizes physical and logical resources to ensure symmetry, high availabi
 ### Scaling Without Rebalancing
 
 Traditional distributed storage systems require **rebalancing** when adding capacity — a costly operation that can take days or weeks. MinIO eliminates this through its zone-based architecture.
+
+![MinIO Scaling Without Rebalancing](/assets/images/1767162904983.jpg)
+*Illustration of MinIO's zone-based scaling approach with no rebalancing required*
 
 **How It Works:**
 1. Add a new zone with homogeneous servers
