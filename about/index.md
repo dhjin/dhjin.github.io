@@ -11,7 +11,7 @@ Experienced Data Engineer with a demonstrated history of working in the internet
 ### Interests
 
 - **Computational Semantics**: Exploring the intersection of language, meaning, and computation
-- **Java**: Building robust and scalable applications
+- **Programming**: Building robust and scalable applications
 - **Big Data**: Processing and analyzing large-scale datasets
 - **Foods**: Discovering and enjoying culinary experiences
 
